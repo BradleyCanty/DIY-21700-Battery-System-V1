@@ -63,7 +63,7 @@ The table below shows the kit price according to configuration:
 | 6p | $180 | $240 | $300 | $360 |
 
 ## Ordering Info
-The e-commerce site for purchasing kits is still being developed and should be ready by early October 2026. However, if you are interested in buying a kit, please send an email to **DIY21700BatterySystem@gmail.com** with the following:
+The e-commerce site for purchasing kits is still being developed and should be ready by early October 2026. However, if you are interested in buying a kit, please send an email to **EMAIL HERE** with the following:
 * Subject line:\
   "**M**s**N**p Battery System Kit Interest"\
   where\
