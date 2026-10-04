@@ -1,4 +1,5 @@
 # DIY-21700-Battery-System
+(THIS REPO IS DEPRECATED AS OF 2026/10/03, SEE [DIY 21700 Battery System V2](https://github.com/BradleyCanty/DIY-21700-Battery-System-V2))
 ## Introduction
 This is a do-it-yourself battery system intended for use with Unmanned Aerial Vehicles or Unmanned Ground Vehicles.
 
