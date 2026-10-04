@@ -1,4 +1,5 @@
-# DIY 21700 Battery System Kit Info (DEPRECATED, SEE [DIY 21700 Battery System V2](https://github.com/BradleyCanty/DIY-21700-Battery-System-V2))
+# DIY 21700 Battery System Kit Info
+(DEPRECATED, SEE [DIY 21700 Battery System V2](https://github.com/BradleyCanty/DIY-21700-Battery-System-V2))
 ## Purpose
 Kits are available to make the the build process easier: in essence, all you need to do upon receiving the kit is
 1) Insert your favorite cells (purchased separately) into the fully-prepared 3D printed frames
